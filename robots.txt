@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-miu73u.didir10protigya.com/sitemap.xml
